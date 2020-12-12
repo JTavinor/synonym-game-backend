@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "synonymGame_jwtPrivateKey",
+  "databaseAddress": "synonymGame_dbAddress"
+}
