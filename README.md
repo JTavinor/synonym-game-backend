@@ -1,5 +1,5 @@
 # Word Association Game Backend
-Created using node.js and deployed on heroku
+Created using node.js with express and deployed on heroku
 
 Give it a go at http://jtwordgame.herokuapp.com/
 
